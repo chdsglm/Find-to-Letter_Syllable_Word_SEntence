@@ -1,0 +1,2 @@
+Bu ödevde java dilinde bir konsol uygulamasý (görsel unsurlar içermeyen) geliþtirmeniz istenmektedir. Program metin 
+bilgisi içeren bir dosya içindekileri analiz edecek ve sonuçlarý ekrana rapor edecektir.
